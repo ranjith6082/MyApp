@@ -11,6 +11,6 @@
 	<h2 style="color:red; font-size: 40px;" align="center">HEY WE DEPLOYED OUR APP USING DEVOPS</h2>
 	<h3 style="color:orange; font-size: 40px;" align="center">HEY WE DEPLOYED OUR APP USING AWS</h3>
 	<h4 style="color:black; font-size: 40px;" align="center">WE HAVE INTEGRATED NEXUS WITH JENKINS</h4>
-	<h2 style="color:black; font-size: 20px;" align="center">THIS IS NEXUS TOPIC</h2>
+	<h2 style="color:blue; font-size: 20px;" align="center">THIS IS NEXUS TOPIC</h2>
 </body>
 </html>
